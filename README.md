@@ -59,25 +59,6 @@ I'm always learning new technologies, improving my skills, and turning ideas int
 
 ---
 
-## Stuff I’ve Built
-
-- ♻️ **Loop**
-  
-  A recycling platform where users can schedule pickups and earn money from recyclable materials.
-
-- ♟️ **Chess**
-  
-  A web-based chess project built with React.
-
-- 🔗 **URL Shortener**
-  
-  A simple full-stack URL shortening application.
-
-- 📚 **Skill Course**
-  
-  A modern course platform interface designed with a clean and responsive UI.
-
----
 
 ## Tech Stack
 
