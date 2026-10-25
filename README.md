@@ -62,12 +62,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ABOD2005a">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOD2005a&layout=compact&theme=transparent&hide_border=false" alt="Most used languages" />
-  </a>
-  <a href="https://github.com/ABOD2005a">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ABOD2005a&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOD2005a&layout=compact&langs_count=8&card_width=400&bg_color=0f172a&border_color=1e293b&border_radius=10&title_color=38bdf8&text_color=cbd5e1" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABOD2005a&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&line_height=24&card_width=400&bg_color=0f172a&border_color=1e293b&border_radius=10&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&ring_color=38bdf8" alt="GitHub stats" />
 </p>
 
 ---
