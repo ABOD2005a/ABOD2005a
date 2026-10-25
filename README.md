@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/YOUR_USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://github.com/ABOD2005a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -62,11 +62,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=false" alt="Most used languages" />
+  <a href="https://github.com/ABOD2005a">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABOD2005a&layout=compact&theme=transparent&hide_border=false" alt="Most used languages" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub stats" />
+  <a href="https://github.com/ABOD2005a">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ABOD2005a&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub stats" />
   </a>
 </p>
 
