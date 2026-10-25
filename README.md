@@ -13,7 +13,6 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at **[YOUR_PORTFOLIO_LINK](https://your-portfolio.vercel.app/)**
 
 ### Connect with me:
 
