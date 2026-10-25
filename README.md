@@ -13,12 +13,12 @@
 
 ---
 
-
 ### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/ABOD2005a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://github.com/ABOD2005a" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://wa.me/qr/4LO5CKWCZIVKJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://mostaql.com/u/ABOD_mohamed111" target="_blank"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=for-the-badge" alt="Mostaql" /></a>
 </p>
 
 ### Languages and Tools:
